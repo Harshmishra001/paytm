@@ -4,7 +4,7 @@ export default function() {
     Dashboard
    </div>
    <div className="w-full flex justify-center">
-   <img src="https://www.figma.com/community/file/1292099623869779348/re-design-paytm-app-home-page"></img>
+   <img src="https://st5.depositphotos.com/86100912/72623/i/450/depositphotos_726232036-stock-photo-paytm-logo-displayed-smartphone-screen.jpg"></img>
     </div>
    </div>
 }
