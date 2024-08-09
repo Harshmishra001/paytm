@@ -4,7 +4,10 @@ export default function() {
     Dashboard
    </div>
    <div className="w-full flex justify-center">
-   <img src="https://st5.depositphotos.com/86100912/72623/i/450/depositphotos_726232036-stock-photo-paytm-logo-displayed-smartphone-screen.jpg"></img>
+   <img src="https://media.licdn.com/dms/image/D5622AQFzcs0YaqcRgQ/feedshare-shrink_2048_1536/0/1721646390315?e=1726099200&v=beta&t=UwAeigDOwKsTYGsM0HPHA7CzhSAhFHU2L7nD2B3Ikt8"></img>
     </div>
    </div>
 }
+
+ 
+
